@@ -1,0 +1,1 @@
+/* create page.tsx content from canvas */

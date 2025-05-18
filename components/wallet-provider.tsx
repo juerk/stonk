@@ -1,0 +1,1 @@
+/* wallet-provider.tsx content from canvas */
